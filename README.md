@@ -1,1 +1,7 @@
-# Pokedex
+# Pokemons app
+
+# Pokemons app
+
+### Go **[here](https://nikolay07.github.io/pokemos-board-app/)** for live demo.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
