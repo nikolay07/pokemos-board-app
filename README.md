@@ -4,6 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* The application displays a list of Pokémon in the form of cards.When you click the button "Load more" -  20 more cards are loaded. When you click on any of the cards in the side field on the right, detailed information about the selected Pokemon appears.
+
 ## Available Scripts
 
 In the project directory, you can run:
