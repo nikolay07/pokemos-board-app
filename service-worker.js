@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pokemos-board-app/precache-manifest.17cc1d3aa77bdd0ba0a0a6884c0790af.js"
+  "/pokemos-board-app/precache-manifest.71375183a26cc1a4365e5815c6b0a2c0.js"
 );
 
 self.addEventListener('message', (event) => {

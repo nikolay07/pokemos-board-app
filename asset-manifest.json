@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pokemos-board-app/static/css/main.6c05391d.chunk.css",
+    "main.css": "/pokemos-board-app/static/css/main.2a9acfa9.chunk.css",
     "main.js": "/pokemos-board-app/static/js/main.0a6d2384.chunk.js",
     "main.js.map": "/pokemos-board-app/static/js/main.0a6d2384.chunk.js.map",
     "runtime-main.js": "/pokemos-board-app/static/js/runtime-main.1e6a905a.js",
@@ -8,15 +8,15 @@
     "static/js/2.de00b5c5.chunk.js": "/pokemos-board-app/static/js/2.de00b5c5.chunk.js",
     "static/js/2.de00b5c5.chunk.js.map": "/pokemos-board-app/static/js/2.de00b5c5.chunk.js.map",
     "index.html": "/pokemos-board-app/index.html",
-    "precache-manifest.17cc1d3aa77bdd0ba0a0a6884c0790af.js": "/pokemos-board-app/precache-manifest.17cc1d3aa77bdd0ba0a0a6884c0790af.js",
+    "precache-manifest.71375183a26cc1a4365e5815c6b0a2c0.js": "/pokemos-board-app/precache-manifest.71375183a26cc1a4365e5815c6b0a2c0.js",
     "service-worker.js": "/pokemos-board-app/service-worker.js",
-    "static/css/main.6c05391d.chunk.css.map": "/pokemos-board-app/static/css/main.6c05391d.chunk.css.map",
+    "static/css/main.2a9acfa9.chunk.css.map": "/pokemos-board-app/static/css/main.2a9acfa9.chunk.css.map",
     "static/js/2.de00b5c5.chunk.js.LICENSE.txt": "/pokemos-board-app/static/js/2.de00b5c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1e6a905a.js",
     "static/js/2.de00b5c5.chunk.js",
-    "static/css/main.6c05391d.chunk.css",
+    "static/css/main.2a9acfa9.chunk.css",
     "static/js/main.0a6d2384.chunk.js"
   ]
 }
